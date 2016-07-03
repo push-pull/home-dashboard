@@ -90,3 +90,6 @@ ENV/
 
 # CSV
 *.csv
+
+# Settings
+config.json

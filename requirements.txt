@@ -1,4 +1,4 @@
-aiohttp==0.21.6
+aiohttp==3.7.4
 chardet==2.3.0
 discord.py==0.10.0
 requests==2.20.0
